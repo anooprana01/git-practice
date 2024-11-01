@@ -1,0 +1,3 @@
+git master url
+
+git -v
